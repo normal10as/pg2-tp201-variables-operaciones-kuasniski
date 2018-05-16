@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{9BA1A799-FF81-4A0E-A0CE-6819C28A6948}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Estructuras_Control_Flujo._2_4</StartupObject>
+    <StartupObject>Estructuras_Control_Flujo._1_3</StartupObject>
     <RootNamespace>Estructuras_Control_Flujo</RootNamespace>
     <AssemblyName>Estructuras_Control_Flujo</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -68,10 +68,13 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="2-1.vb" />
-    <Compile Include="2-2.vb" />
-    <Compile Include="2-3.vb" />
-    <Compile Include="2-4.vb" />
+    <Compile Include="1-1.vb" />
+    <Compile Include="1-2.vb" />
+    <Compile Include="1-3.vb" />
+    <Compile Include="1-4.vb" />
+    <Compile Include="1-5.vb" />
+    <Compile Include="1-6.vb" />
+    <Compile Include="1-7.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
